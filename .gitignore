@@ -1,6 +1,8 @@
 # API keys — never commit these
 .env
 
+# additional files to keep
+instruct.md
 # Python
 __pycache__/
 *.py[cod]
